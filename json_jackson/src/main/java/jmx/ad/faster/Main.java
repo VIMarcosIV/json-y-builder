@@ -10,7 +10,7 @@ import java.io.IOException;
 public class Main {
 
     public static void main(String[] args) {
-
+        //https://github.com/FasterXML/jackson/
         //Serialización ejemplo
         ObjectMapper objectMapper = new ObjectMapper();
         Jugador j1 = new Jugador("De Gea", "Portero", 1);
